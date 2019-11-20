@@ -291,6 +291,16 @@ class _PlayViewState extends State<PlayView> {
                 FlatButton.icon(
                     onPressed: () {
                       Navigator.of(dialogContext).pop();
+                      Navigator.of(context).pop();
+                    },
+                    icon: Icon(
+                      Icons.arrow_back,
+                      color: Theme.of(context).cardColor,
+                    ),
+                    label: Container()),
+                FlatButton.icon(
+                    onPressed: () {
+                      Navigator.of(dialogContext).pop();
                       Router.openBrowser(widget.url);
                     },
                     icon: Icon(
@@ -310,6 +320,7 @@ class _PlayViewState extends State<PlayView> {
                       color: Theme.of(context).cardColor,
                     ),
                     label: Container()),
+
               ])),
         ),
       ),
