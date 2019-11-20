@@ -1,8 +1,10 @@
-# quafulplayer
+# Quaful Player
 
 Quaful Player
 
 ## Getting Started
+
+## 夸父播放器，搜索全网视频，在线观看。
 
 This project is a starting point for a Flutter application.
 
