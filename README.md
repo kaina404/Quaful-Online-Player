@@ -1,6 +1,6 @@
-# Quaful Player
+# Quaful Online Player
 
-Quaful Player
+Quaful Online Player
 
 ## Getting Started
 
