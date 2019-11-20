@@ -46,6 +46,8 @@ dependencies:
 
   video_player: ^0.10.2+5
 
+  screen: ^0.0.5
+
 dev_dependencies:
   flutter_test:
     sdk: flutter

@@ -187,7 +187,7 @@ packages:
     source: hosted
     version: "2.0.5"
   screen:
-    dependency: transitive
+    dependency: "direct main"
     description:
       name: screen
       url: "https://mirrors.tuna.tsinghua.edu.cn/dart-pub"
