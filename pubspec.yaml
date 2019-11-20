@@ -44,6 +44,8 @@ dependencies:
 
   flutter_simple_video_player: ^0.0.9
 
+  video_player: ^0.10.2+5
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
