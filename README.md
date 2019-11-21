@@ -3,6 +3,9 @@
 
 ## 夸父播放器，全网视频抢先看。
 
+### Apk
+![](https://raw.githubusercontent.com/kaina404/flutterDemo/master/1574306235.png)
+
 ![](https://raw.githubusercontent.com/kaina404/flutterDemo/master/112110502929_0IMG_0219.png)
 ![](https://raw.githubusercontent.com/kaina404/flutterDemo/master/112110542562_0IMG_0199.png)
 
