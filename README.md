@@ -1,10 +1,7 @@
 # Quaful Online Player
 
-Quaful Online Player
 
-## Getting Started
-
-## 夸父播放器，搜索全网视频，在线观看。
+## 夸父播放器，全网视频抢先看。
 
 ![](https://raw.githubusercontent.com/kaina404/flutterDemo/master/112110502929_0IMG_0219.png)
 ![](https://raw.githubusercontent.com/kaina404/flutterDemo/master/112110542562_0IMG_0199.png)
